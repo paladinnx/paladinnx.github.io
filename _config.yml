@@ -14,21 +14,21 @@ github: [metadata]
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Small Potatoes
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Personal blog for Tyler Wilson
+title: small potatoes
+email: tyler.mk.wilson@gmail.com
+description: Personal blog for Tyler Wilson
 twitter_username: paladinn
 github_username: paladinnx
-minimal_mistakes_skin: default
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
 # Outputting
 permalink: /:categories/:title/
-paginate: 10 # amount of posts to show
+paginate: 10 
 paginate_path: /page:num/
 timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Tyler Wilson"
   avatar : "/assets/images/bio-photo.jpg"
-# bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "a small potato"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
