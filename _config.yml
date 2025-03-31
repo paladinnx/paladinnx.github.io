@@ -15,10 +15,8 @@ github: [metadata]
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: small potatoes
-email: tyler.mk.wilson@gmail.com
-description: Personal blog for Tyler Wilson
-twitter_username: paladinn
-github_username: paladinnx
+email: tmw@gmail.com
+description: blog
 minimal_mistakes_skin: neon
 search: true
 
@@ -57,34 +55,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Tyler Wilson"
+  name   : "paladinn"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "a small potato"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.tylermkwilson.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/paladinn"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/paladinnx/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/tmkwil"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/paladinn"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/paladinnx"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/tmkwil"
 
 defaults:
   # _posts
