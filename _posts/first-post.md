@@ -10,4 +10,4 @@ categories:
 - blog
 ---
 
-Placeholder text
+lorem ipsum
