@@ -9,7 +9,6 @@ related: false
 date: '2025-09-02'
 categories:
 - blog
-tags: null
 ---
 
 Placeholder text
