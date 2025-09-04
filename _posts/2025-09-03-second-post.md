@@ -10,4 +10,4 @@ categories:
 - blog
 ---
 
-second poast
+second post
